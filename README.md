@@ -1,0 +1,1 @@
+# Webdicebot.prototype.StakeVaultDeposit
