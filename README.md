@@ -12,7 +12,7 @@ Load WebDiceBot on Stake.com with a appended Vault-Function.
   
   _stake.com[/casino/games/limbo](https://stake.com/casino/games/limbo)_
 
-- [ ] !IMPORTANT  `This Loader and the Vault Function ONLY works on Stake.com`
+- [ ] !IMPORTANT  `This Loader and the Vault Function ONLY works on Stake.com (or any of its Mirrors)`
 
 
 ### Installation
