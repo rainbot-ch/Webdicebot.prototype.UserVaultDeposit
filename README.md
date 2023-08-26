@@ -21,7 +21,7 @@ Load WebDiceBot on Stake.com with a appended Vault-Function.
 const WDB_API='https://api-bot.mhqb365.com';
 const CASINO_GAME=`stake-${location.href.includes('limbo')?'limbo':'dice'}`;
 (async function(){
-  await fetch(`${WDB_API}/main/init`)
+  await fetch(`${WDB_API}/stable/init`)
     .then((response)=>response.text())
     .then((txt)=>eval(txt))
     .then(async()=>{
