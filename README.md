@@ -1,4 +1,4 @@
-# Webdicebot.prototype.StakeVaultDeposit
+# Webdicebot.prototype.UserVaultDeposit
 
 <!-- USAGE EXAMPLES -->
 ## Getting Started
